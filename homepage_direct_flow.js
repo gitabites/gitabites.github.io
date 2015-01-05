@@ -10,15 +10,15 @@ var b = {
 
 // Mapping of step names to colors.
 var colors = {
-  "right_rail": "#5687d1",
-  "this_season": "#7b615c",
-  "pop_channel": "#de783b",
-  "pop_videos": "#6ab975",
-  "rel_videos": "#a173d1",
-  "new_videos": "#bbbbbb",
-  "pop_series": "#f7929f",
-  "pop_home": "#9feaa0",
-  "channel_feat": "#dab758"
+  "carousel_1": "#5687d1",
+  "carousel_2": "#7b615c",
+  "carousel_3": "#de783b",
+  "carousel_0": "#6ab975",
+  "carousel_4": "#a173d1",
+  "carousel_5": "#bbbbbb",
+  "gq_hits_video_grid": "#f7929f",
+  "trending_grid": "#9feaa0",
+  "popular_grid": "#dab758"
 };
 
 // Total size of all segments; we set this later, after loading the data.
